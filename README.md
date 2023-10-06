@@ -1,8 +1,9 @@
+<<<<<<< HEAD
 # JavaScript: Password Generator
 
 ##  Task
 
-This challenge required me to modify a starter code to create application that enables employees to generate random passwords based on the criteria of selecting a password between 8 - 128 characters long, lowercase letters, uppercase letters, and 
+This challenge required me to modify a starter code to create application that enables employees to generate random passwords based on the criteria of selecting a password between 8 - 128 characters long, lowercase letters, uppercase letters, numbers, and special characters.
 
 This week's Challenge requires you to modify starter code to create an application that enables employees to generate random passwords based on criteria that they’ve selected. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished, responsive user interface that adapts to multiple screen sizes.
 
@@ -100,3 +101,7 @@ You are required to submit the following for review:
 
 - - -
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+=======
+# JavaScript-Password-Generator
+A challenge that required me to write JavaScript code for a password generator.
+>>>>>>> origin/main
