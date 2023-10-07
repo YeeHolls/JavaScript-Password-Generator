@@ -32,7 +32,7 @@ function generatePrompts (){
     passwordArray = passwordArray.concat(specialChar);
   }//number prompt
   if (confirm("Click OK to include numbers in your password.")) {
-    passwordArray = password.concat(numbers);
+    passwordArray = passwordArray.concat(numbers);
   }
   return true; // return password
 }
