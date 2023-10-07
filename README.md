@@ -8,7 +8,7 @@ This challenge required me to modify a starter code to create application that e
 Overview:
 
   Screenshot of the front page:
-    ![Photo of the Front Page of Horiseaon](./Assets/03-javascript-homework-demo.png)
+    ![Photo of the Front Page of Password Generator](./Assets/03-javascript-homework-demo.png)
 
   Link to Deployed Website:
   https://yeeholls.github.io/JavaScript-Password-Generator/
